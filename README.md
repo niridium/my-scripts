@@ -1,6 +1,4 @@
 
 ## TODO
-- [ ] Redesign
-  - [ ] archive.sh
-  - [ ] backupsys.sh
-  - [ ] synclone.sh
+- [x] Redesign
+  - [x] backupsys.sh -> sync-server.sh
